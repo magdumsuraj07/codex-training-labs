@@ -1,6 +1,6 @@
 # Testing prompts for the ToDo stack
 
-This directory documents the second pass: how to generate test cases (or prompts for Copilot/ChatGPT/other test writers) covering every major testing prism that applies to the React + Node ToDo app.
+This directory documents the second pass: how to generate test cases (or prompts for other test writers) covering every major testing prism that applies to the React + Node ToDo app.
 
 For each testing type below you will find a short description plus example prompts or command templates you could feed to a test generator, describe-coded test suite, or creative partner.
 
